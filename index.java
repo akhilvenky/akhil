@@ -1,1 +1,3 @@
-git code in java
+git has lot of commands
+git is used by developers
+
